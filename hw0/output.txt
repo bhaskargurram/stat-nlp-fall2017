@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Bhaskar Srinivas
+   last: Gurram
+email: bsg348@nyu.edu
+leaderboard: Arigato
