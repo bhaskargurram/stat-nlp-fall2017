@@ -3,4 +3,4 @@ name:
    first: Bhaskar Srinivas
    last: Gurram
 email: bsg348@nyu.edu
-leaderboard: Arigato
+leaderboard: BSG
