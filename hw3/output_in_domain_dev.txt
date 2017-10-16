@@ -1467,9 +1467,9 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NNP
+Leadership	NN
 by	IN
-Example	NNP
+Example	NN
 .	.
 ''	''
 
@@ -2908,7 +2908,7 @@ among	IN
 the	DT
 East	NNP
 Bay	NNP
-Bashers	NNP
+Bashers	NNS
 that	IN
 when	WRB
 he	PRP
@@ -7442,7 +7442,7 @@ recent	JJ
 levels	NNS
 .	.
 
-PARIS	NNP
+PARIS	NN
 :	:
 
 Late	JJ
@@ -8175,7 +8175,7 @@ second	JJ
 quarter	NN
 .	.
 
-Nonperformers	NNP
+Nonperformers	NNS
 totaled	VBD
 $	$
 230.8	CD
@@ -9897,7 +9897,7 @@ guy	NN
 who	WP
 throws	VBZ
 an	DT
-intercept	NN
+intercept	JJ
 'Cause	NN
 his	PRP$
 receiver	NN
@@ -12496,8 +12496,8 @@ players	NNS
 employment	NN
 .	.
 
-PROPOSALS	NN
-ARISE	NN
+PROPOSALS	NNP
+ARISE	NNP
 for	IN
 coping	VBG
 with	IN
@@ -12669,8 +12669,8 @@ subsidized	JJ
 housing	NN
 .	.
 
-TREATING	NN
-EMPLOYEES	NNS
+TREATING	NNP
+EMPLOYEES	NNP
 with	IN
 respect	NN
 is	VBZ
@@ -12737,10 +12737,10 @@ they	PRP
 work	VBP
 .	.
 
-SPRUCING	VBG
+SPRUCING	NNP
 UP	RP
 THE	DT
-DIGS	NN
+DIGS	NNP
 :	:
 About	RB
 200	CD
@@ -12799,7 +12799,7 @@ $	$
 
 CURBING	NNP
 WAGE	NN
-BOOSTS	NNS
+BOOSTS	NNP
 will	MD
 get	VB
 high	JJ
@@ -12867,8 +12867,8 @@ consider	VB
 it	PRP
 .	.
 
-TEMPORARY	NN
-WORKERS	NNS
+TEMPORARY	NNP
+WORKERS	NNPS
 have	VBP
 good	JJ
 educations	NNS
@@ -13497,7 +13497,7 @@ market	NN
 
 Chicken	NNP
 Chains	NNP
-Ruffled	NNP
+Ruffled	VBD
 By	IN
 Loss	NN
 of	IN
@@ -14034,9 +14034,9 @@ such	JJ
 spots	NNS
 as	IN
 ``	``
-Floodlights	NNP
+Floodlights	NNS
 :	:
-Evening	NNP
+Evening	VBG
 Wear	VB
 for	IN
 Urban	NNP
@@ -14325,7 +14325,7 @@ Bros.	NNP
 confirms	VBZ
 that	IN
 its	PRP$
-Sunlight	NNP
+Sunlight	JJ
 brand	NN
 does	VBZ
 contain	VB
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	RB
+er	NNP
 ,	,
 home	NN
 ...	:
@@ -15759,7 +15759,7 @@ And	CC
 Bills	NNS
 to	TO
 Make	VB
-Wishes	NNS
+Wishes	VBZ
 Come	VBN
 True	JJ
 ''	''
@@ -15892,7 +15892,7 @@ process	NN
 of	IN
 convening	VBG
 the	DT
-intergovernmental	NN
+intergovernmental	JJ
 conference	NN
 does	VBZ
 n't	RB
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	NNP
+Diplomatic	JJ
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -16302,7 +16302,7 @@ investor	NN
 as	IN
 their	PRP$
 highly	RB
-margined	VBN
+margined	JJ
 investments	NNS
 in	IN
 the	DT
@@ -17059,7 +17059,7 @@ Street	NNP
 regarding	VBG
 excessive	JJ
 financial	JJ
-leveraging	JJ
+leveraging	NN
 ,	,
 actual	JJ
 legislation	NN
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	NNP
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	NNP
+Enjoying	VBG
 several	JJ
 blockbuster	NN
 movie	NN
@@ -23612,7 +23612,7 @@ its	PRP$
 legislature	NN
 ,	,
 the	DT
-Sejm	NNP
+Sejm	NN
 ,	,
 in	IN
 democratic	JJ
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	NNP
+Wedgwood	JJ
 china	NN
 ,	,
 reported	VBD
@@ -28281,7 +28281,7 @@ then	RB
 ''	''
 says	VBZ
 an	DT
-Agfa	NNP
+Agfa	NN
 spokesman	NN
 .	.
 
@@ -28729,7 +28729,7 @@ His	PRP$
 On	NNP
 -	HYPH
 Broadway	NNP
-Photography	NNP
+Photography	NN
 studio	NN
 in	IN
 Portland	NNP
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNP
+Photographers	NNS
 of	IN
 America	NNP
 .	.
@@ -30924,7 +30924,7 @@ position	NN
 THE	DT
 STOCK	NN
 MARKET	NN
-AVOIDED	IN
+AVOIDED	NNP
 a	DT
 repeat	NN
 of	IN
@@ -37715,7 +37715,7 @@ he	PRP
 smiled	VBD
 broadly	RB
 ,	,
-brandished	VBD
+brandished	JJ
 his	PRP$
 unlit	JJ
 cigar	NN
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	NNP
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NN
+ex-Attorney	NNP
 General	NNP
 Meese	NNP
 ,	,
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNP
+Delegates	NNS
 from	IN
 91	CD
 nations	NNS
