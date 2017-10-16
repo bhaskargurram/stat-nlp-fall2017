@@ -1467,9 +1467,9 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NN
+Leadership	NNP
 by	IN
-Example	NN
+Example	NNP
 .	.
 ''	''
 
@@ -1779,8 +1779,8 @@ Week	NNP
 's	POS
 special	JJ
 ``	``
-Corporate	NNP
-Elite	NNP
+Corporate	JJ
+Elite	NN
 ''	''
 issue	NN
 calls	VBZ
@@ -2729,7 +2729,7 @@ latter	NN
 although	IN
 it	PRP
 probably	RB
-springs	NNS
+springs	VBZ
 from	IN
 the	DT
 fact	NN
@@ -2908,7 +2908,7 @@ among	IN
 the	DT
 East	NNP
 Bay	NNP
-Bashers	NNP
+Bashers	NNS
 that	IN
 when	WRB
 he	PRP
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	NN
+bluest	JJ
 chips	NNS
 took	VBD
 some	DT
@@ -7442,7 +7442,7 @@ recent	JJ
 levels	NNS
 .	.
 
-PARIS	NN
+PARIS	NNP
 :	:
 
 Late	JJ
@@ -9507,7 +9507,7 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	NN
+herring	VBG
 violate	VB
 the	DT
 accord	NN
@@ -12669,7 +12669,7 @@ subsidized	JJ
 housing	NN
 .	.
 
-TREATING	NNP
+TREATING	NN
 EMPLOYEES	NNP
 with	IN
 respect	NN
@@ -14530,7 +14530,7 @@ James	NNP
 Garner	NNP
 second	JJ
 in	IN
-persuasiveness	NN
+persuasiveness	NNS
 as	IN
 spokesmen	NNS
 in	IN
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	JJ
+Diplomatic	NNP
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -16302,7 +16302,7 @@ investor	NN
 as	IN
 their	PRP$
 highly	RB
-margined	JJ
+margined	VBN
 investments	NNS
 in	IN
 the	DT
@@ -23485,7 +23485,7 @@ Huntsman	NNP
 Holdings	NNP
 ,	,
 acquire	VB
-Aristech	NNP
+Aristech	NN
 in	IN
 a	DT
 friendly	JJ
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	NNP
+Wedgwood	JJ
 china	NN
 ,	,
 reported	VBD
@@ -27794,7 +27794,7 @@ here	RB
 A	NNP
 .	.
 manual	NNP
-typewriters	NN
+typewriters	NNP
 ,	,
 B	NNP
 .	.
@@ -28281,7 +28281,7 @@ then	RB
 ''	''
 says	VBZ
 an	DT
-Agfa	NNP
+Agfa	NN
 spokesman	NN
 .	.
 
@@ -28729,7 +28729,7 @@ His	PRP$
 On	NNP
 -	HYPH
 Broadway	NNP
-Photography	NN
+Photography	NNP
 studio	NN
 in	IN
 Portland	NNP
@@ -36985,8 +36985,8 @@ his	PRP$
 stake	NN
 in	IN
 ISI	NNP
-to	IN
-Memotec	NNP
+to	TO
+Memotec	VB
 upon	IN
 completion	NN
 of	IN
@@ -37715,7 +37715,7 @@ he	PRP
 smiled	VBD
 broadly	RB
 ,	,
-brandished	JJ
+brandished	VBD
 his	PRP$
 unlit	JJ
 cigar	NN
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNS
+Delegates	NNP
 from	IN
 91	CD
 nations	NNS
